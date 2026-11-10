@@ -1101,3 +1101,13 @@ address {
     transform: none;
   }
 }
+
+/* Preview bar: remove once the company approves the site */
+.preview-bar {
+  background: var(--amber-300);
+  color: var(--navy-950);
+  font-size: 0.9rem;
+  line-height: 1.4;
+  text-align: center;
+  padding: 0.55rem 1rem;
+}
